@@ -14,3 +14,6 @@ Um módulo para mostrar um pequeno form que permite buscar um versículo no Novo
 Um módulo para mostrar um pequeno form que permite buscar um versículo no Velho Testamento.
 
 Antes de instalar descompacte o pacote e instale o componente e cada um dos módulos.
+
+## Download
+https://github.com/ribafs/biblia-joomla
