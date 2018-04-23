@@ -17,3 +17,6 @@ Antes de instalar descompacte o pacote e instale o componente e cada um dos mód
 
 ## Download
 https://github.com/ribafs/biblia-joomla
+
+## Demo
+http://ribafs.org/cakephp
