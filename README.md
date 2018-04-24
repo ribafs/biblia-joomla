@@ -15,6 +15,9 @@ Um módulo para mostrar um pequeno form que permite buscar um versículo no Velh
 
 Antes de instalar descompacte o pacote e instale o componente e cada um dos módulos.
 
+### Observação
+A bíblia em espanhol tem um problema nos módulos de busca que ainda não cosnegui resolver.
+
 ## Download
 https://github.com/ribafs/biblia-joomla
 
