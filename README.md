@@ -1,5 +1,10 @@
-# biblia-joomla
-Componentes e módulos contendo a Bíblia para Joomla 2.5 e 3 em 3 idiomas: português, inglês e espanhol.
+# Módulos da Bíblia para Joomla 2.5 e 3.x
+
+## Demo Online
+http://ribafs.org/cakephp
+
+
+Componentes e módulos contendo a Bíblia para Joomla 2.5 e 3.x em 3 idiomas: português, inglês e espanhol.
 
 Cada pacote contém um componente e 4 módulos.
 
@@ -21,5 +26,5 @@ A bíblia em espanhol tem um problema nos módulos de busca que ainda não cosne
 ## Download
 https://github.com/ribafs/biblia-joomla
 
-## Demo
-http://ribafs.org/cakephp
+## Licença
+GPL
