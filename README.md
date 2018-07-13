@@ -1,7 +1,7 @@
 # Módulos da Bíblia para Joomla 2.5 e 3.x
 
 ## Demo Online
-http://cursos.ribafs.org
+http://ribafs.org/joomlademo/
 
 
 Componentes e módulos contendo a Bíblia para Joomla 2.5 e 3.x em 3 idiomas: português, inglês e espanhol.
