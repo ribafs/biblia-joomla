@@ -1,7 +1,10 @@
-# Módulos da Bíblia para Joomla 2.5 e 3.x
+## Módulos da Bíblia para Joomla 2.5 e 3.x
 
 ## Demo Online
 http://ribafs.org/joomlademo/
+
+# Dizendo não para o lado negro da força (MS) mudei para o GitLab. Manterei os arquivos aqui em respeito aos usuários e ao antigo GitHub mas estarei atualizando somente no GitLab daqui pra frente.
+https://gitlab.com/ribafs/biblia-joomla
 
 
 Componentes e módulos contendo a Bíblia para Joomla 2.5 e 3.x em 3 idiomas: português, inglês e espanhol.
