@@ -1,8 +1,5 @@
 # Módulos da Bíblia para Joomla 2.5 e 3.x
 
-## Demo Online
-http://ribafs.org/joomlademo/
-
 ### Com a compra do GitHub pela (MS) fiz uma cópia deste repositório no GitLab.
 https://gitlab.com/ribafs/biblia-joomla
 
