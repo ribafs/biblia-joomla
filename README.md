@@ -3,6 +3,9 @@
 ### Com a compra do GitHub pela (MS) fiz uma cópia deste repositório no GitLab.
 https://gitlab.com/ribafs/biblia-joomla
 
+## Demo
+http://ribafs.org
+
 
 Componentes e módulos contendo a Bíblia para Joomla 2.5 e 3.x em 3 idiomas: português, inglês e espanhol.
 
