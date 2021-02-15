@@ -9,9 +9,9 @@ http://ribafs.org
 
 Componentes e módulos contendo a Bíblia para Joomla 2.5 e 3.x em 3 idiomas: português, inglês e espanhol.
 
-Cada pacote contém um componente e 4 módulos.
+Cada pacote contém dois componentes e 4 módulos.
 
-O componente tem apenas a função de instalar o banco e não aparece no administrator.
+O componente tem apenas a função de instalar o banco e não aparece no administrator, um para o novo e outro para o velho testamento.
 
 Um módulo para mostrar um versículo aleatório do Novo Testamento.
 
