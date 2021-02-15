@@ -1,0 +1,14 @@
+A Bíblia - Novo Testamentos
+
+Um componente e 2 módulos (Um mostra um versículo aleatório a cada refresh e outro para busca de versículos)
+
+Os módulos dependem do componente, que é quem instala o banco de dados.
+
+Estas extensões usam o banco de dados que encontrei em:
+
+http://br.groups.yahoo.com/group/bibliaonlinephp/files/
+
+Uma demonstração pode ser vista no site http://despertai.net.br
+
+Sob a licença - GPL2.
+

@@ -1,0 +1,20 @@
+A Bíblia - Velho Testamentos
+
+https://github.com/ribafs/biblia-vt
+
+Um componente e dois módulos (sendo um para busca de versículos e outro e para exibir um versículo aleatório a cada visita ao site.
+
+Os módulos dependem do componente, pois é este que instala o banco de dados com a bíblia.
+
+Estas extensões usam o banco de dados que encontrei em:
+
+http://br.groups.yahoo.com/group/bibliaonlinephp/files/
+
+Sob a licença - GPL2.
+
+Demonstração no site https://despertai.net.br
+
+
+Existe umav ersão com o Novo Testamento em
+
+https://github.com/ribafs/biblia-nt

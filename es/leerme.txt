@@ -1,0 +1,24 @@
+A Biblia - Antiguo y Nuevo Testamentos
+
+Uno componente y 4 módulos (2 para NT y 2 para AT), para buscar y mostrar un versículo al azar cada vez que visite el sitio.
+
+Los módulos dependen de los componentes, que es donde reciben información (base de datos).
+
+Dos módulos que muestran un verso al azar cada visita / actualizar el sitio, uno para NT y uno para la AT.
+
+Esta versión es la Biblia del Oso. Es la primera versión de las sagradas escrituras al español/castellano. Fué traducida en el año 1569 directamente desde el Hebreo y Griego por el monje jerónimo de Sevilla "Casiodoro Reina", y revisada por su compañero "Cipriano de Valera".
+Es decir: Es la primera Versión Reina-Valera 1592.
+Más datos en:
+http://www.sbch.cl/sitio/2010/historia-de-la-primera-biblia-en-espanol-en-1569/
+
+http://www.biblestudytools.com/sev/
+Derechos de Autor (Copyright) e información de uso
+Las Sagradas Escrituras de 1569 son de dominio público.
+
+http://bibliadelososagradasescrituras1569.blogspot.com/2012/06/biblia-del-oso-sagradas-escrituras-1569.html
+Descarga
+
+Sob a licença - GPL2.
+
+
+Ribamar FS - http://ribafs.me
